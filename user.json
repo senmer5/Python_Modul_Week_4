@@ -1,0 +1,15 @@
+{
+    "1": {
+        "name": "SENEM",
+        "phone": "123456",
+        "book_lend_date": "2025-01-08",
+        "book_return_date": "2025-01-22"
+    },
+    "2": {
+        "name": "ENGIN",
+        "phone": "123789",
+        "book_lend_date": "2025-01-08",
+        "book_return_date": "2025-01-22",
+        "lent_book_barkod": "9786057003768"
+    }
+}
